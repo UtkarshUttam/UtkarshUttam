@@ -3,6 +3,12 @@
 I am a Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I have a keen interest in web development and Desktop application development.
 
 ----------------------------------
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UtkarshUttam)](https://github.com/UtkarshUttam)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshUttam&layout=compact)](https://github.com/UtkarshUttam)
+----------------------------------
 ## 🛠 Skills
 
 
@@ -41,7 +47,6 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/instagram.svg" alt="Utkarsh Uttam | Instagram" width="21px"/></a>
 
 <a href="https://twitter.com/UTKARSHUTTAM_3"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/twitter.svg" alt="Utkarsh Uttam | Twitter" width="21px"/></a>
-
 
 <!--
 **UtkarshUttam/UtkarshUttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
