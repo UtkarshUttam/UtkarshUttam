@@ -18,6 +18,7 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Adobe_Photoshop-informational?style=flat&logo=adobe%20photoshop&color=31a8ff)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Qt-informational?style=flat&logo=qt&color=41cb52)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
