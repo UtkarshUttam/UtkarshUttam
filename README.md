@@ -28,6 +28,9 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 - 👯 I’m looking to collaborate on Web/App development
 - 🤔 I’m looking for help with Desktop application development using Electron.js
 - 😄 Pronouns: He/Him
+- For coding, I prefer 👇
+
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/linkedin.svg" alt="Utkarsh Uttam | LinkedIn" width="21px"/></a>
