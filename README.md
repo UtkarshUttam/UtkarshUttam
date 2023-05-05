@@ -10,10 +10,10 @@ I am a Computer Science Engineering student at VIT Bhopal. I have a keen interes
 - C++
 - MySQL
 
-🌱 I’m currently learning React
-👯 I’m looking to collaborate on Web/App development
-🤔 I’m looking for help with Desktop application development using Electron.js
-😄 Pronouns: He/Him
+-🌱 I’m currently learning React
+-👯 I’m looking to collaborate on Web/App development
+-🤔 I’m looking for help with Desktop application development using Electron.js
+-😄 Pronouns: He/Him
 
 - 📫 How to reach me: 
 Twitter: [@UTKARSHUTTAM_3](https://twitter.com/UTKARSHUTTAM_3)
