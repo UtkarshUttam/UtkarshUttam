@@ -2,6 +2,7 @@
 
 I am a Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I have a keen interest in web development and Desktop application development.
 
+----------------------------------
 ## 🛠 Skills
 
 
@@ -23,6 +24,7 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 ![](https://img.shields.io/badge/Tools-Qt-informational?style=flat&logo=qt&color=41cb52)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+
 ---------------------------------
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web/App development
@@ -32,6 +34,7 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+-------------------------------
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/linkedin.svg" alt="Utkarsh Uttam | LinkedIn" width="21px"/></a>
 
