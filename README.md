@@ -2,7 +2,7 @@
 
 I am a Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I have a keen interest in web development and Desktop application development.
 
-## Skills
+## 🛠 Skills
 
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&color=4b667a)
