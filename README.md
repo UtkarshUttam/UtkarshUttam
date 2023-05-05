@@ -9,16 +9,20 @@ I am a Computer Science Engineering student at VIT Bhopal. I have a keen interes
 - Python
 - C++
 - MySQL
+---------------------------------
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Web/App development
+- 🤔 I’m looking for help with Desktop application development using Electron.js
+- 😄 Pronouns: He/Him
 
--🌱 I’m currently learning React
--👯 I’m looking to collaborate on Web/App development
--🤔 I’m looking for help with Desktop application development using Electron.js
--😄 Pronouns: He/Him
+## 📫 How to reach me: 
+<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
-- 📫 How to reach me: 
-Twitter: [@UTKARSHUTTAM_3](https://twitter.com/UTKARSHUTTAM_3)
-Instagram: [ utkarshuttam_3](https://www.instagram.com/utkarshuttam_3/)
-LinkedIn: [Utkarsh Uttam](https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/)
+
+
+- Twitter: [@UTKARSHUTTAM_3](https://twitter.com/UTKARSHUTTAM_3)
+- Instagram: [ utkarshuttam_3](https://www.instagram.com/utkarshuttam_3/)
+- LinkedIn: [Utkarsh Uttam](https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/)
 <!--
 **UtkarshUttam/UtkarshUttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
