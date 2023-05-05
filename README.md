@@ -1,4 +1,8 @@
-### Hey there, I'm Utkarsh Uttam 👋
+<h3 align="center"> Hey there, I'm Utkarsh Uttam 👋</h3>
+
+<h2 align="center">
+I'm a Front End Developer 💻, Designer 🎨 , Photographer 📸 and an Aviation Enthusiast✈!
+</h2> 
 
 I am a Computer Science Engineering student at Vellore Institute of Technology, Bhopal. I have a keen interest in web development and Desktop application development.
 
