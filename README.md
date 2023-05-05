@@ -1,4 +1,19 @@
-### Hey there, I'm Utkarsh Uttam 
+### Hey there, I'm Utkarsh Uttam 👋
+
+I am a Computer Science Engineering student at VIT Bhopal. I have a keen interest in web development and am proficient in HTML, CSS, JS, Python, C++, and MySQL. 
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- MySQL
+
+🌱 I’m currently learning React
+👯 I’m looking to collaborate on Web/App development
+🤔 I’m looking for help with Desktop application development using Electron.js
+😄 Pronouns: He/Him
 
 - 📫 How to reach me: 
 Twitter: [@UTKARSHUTTAM_3](https://twitter.com/UTKARSHUTTAM_3)
@@ -10,10 +25,13 @@ LinkedIn: [Utkarsh Uttam](https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 
+- 
+- 
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
+- 
 - ⚡ Fun fact: ...
 -->
+
+
+
