@@ -76,5 +76,5 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=UtkarshUttam.UtkarshUttam)](https://utkarshuttam.github.io/Personal_Portfolio/)
 view rawREADME.txt hosted with ❤ by GitHub
