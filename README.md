@@ -12,10 +12,17 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 ----------------------------------
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=UtkarshUttam)](https://github.com/UtkarshUttam)
+[![](https://visitcount.itsvg.in/api?id=UtkarshUttam&icon=5&color=6)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshUttam&layout=compact)](https://github.com/UtkarshUttam)
+![](https://github-readme-stats.vercel.app/api?username=UtkarshUttam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UtkarshUttam&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshUttam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ----------------------------------
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=UtkarshUttam&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+---------------------------
 ## 🛠 Skills
 
 
@@ -38,6 +45,12 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
+----------------------------------
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=UtkarshUttam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
 ---------------------------------
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Web/App development
@@ -48,12 +61,22 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 -------------------------------
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+--------------------------
+
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/linkedin.svg" alt="Utkarsh Uttam | LinkedIn" width="21px"/></a>
 
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/instagram.svg" alt="Utkarsh Uttam | Instagram" width="21px"/></a>
 
 <a href="https://twitter.com/UTKARSHUTTAM_3"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/twitter.svg" alt="Utkarsh Uttam | Twitter" width="21px"/></a>
+
+
+
+
 
 <!--
 **UtkarshUttam/UtkarshUttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
