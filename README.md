@@ -62,10 +62,6 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 
 -------------------------------
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
---------------------------
 
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/linkedin.svg" alt="Utkarsh Uttam | LinkedIn" width="21px"/></a>
