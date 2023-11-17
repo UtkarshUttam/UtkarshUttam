@@ -1,4 +1,6 @@
-<a href="https://utkarshuttam.github.io/Personal_Portfolio/" target="_blank" rel="noreferrer"><img src="./images/GithubBanner.png" alt="GithubBanner"></a>
+<!-- <a href="https://utkarshuttam.github.io/Personal_Portfolio/" target="_blank" rel="noreferrer"><img src="./images/GithubBanner.png" alt="GithubBanner"></a> -->
+
+![Alt text](images/GithubBanner.png)
 
 <h3 align="center"> Hey there, I'm Utkarsh Uttam 👋</h3>
 
@@ -66,7 +68,7 @@ I am a Computer Science Engineering student at Vellore Institute of Technology, 
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/utkarsh-uttam-0884ab1b7/"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/linkedin.svg" alt="Utkarsh Uttam | LinkedIn" width="21px"/></a>
 
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/instagram.svg" alt="Utkarsh Uttam | Instagram" width="21px"/></a>
+<a href="https://instagram.com/utkarshuttam3"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/instagram.svg" alt="Utkarsh Uttam | Instagram" width="21px"/></a>
 
 <a href="https://twitter.com/UTKARSHUTTAM_3"><img align="left" src="https://raw.githubusercontent.com/UtkarshUttam/UtkarshUttam/main/images/twitter.svg" alt="Utkarsh Uttam | Twitter" width="21px"/></a>
 
