@@ -1,4 +1,4 @@
-<a href="https://utkarshuttam.github.io/Personal_Portfolio/" target="_blank" rel="noreferrer"><img src="./images/Github_Banner.png" alt="my banner"></a>
+<a href="https://utkarshuttam.github.io/Personal_Portfolio/" target="_blank" rel="noreferrer"><img src="./images/GithubBanner.png" alt="my banner"></a>
 
 <h3 align="center"> Hey there, I'm Utkarsh Uttam 👋</h3>
 
